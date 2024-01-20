@@ -1,0 +1,11 @@
+int main() 
+{
+    if(5<3 && 10>14 && 10==10)
+    {
+        printf("\n hello world");
+    }else
+    {
+    printf("\n Bye");
+    }
+    
+}
